@@ -1,0 +1,14 @@
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.deps.json
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.runtimeconfig.json
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.runtimeconfig.dev.json
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.dll
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.pdb
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.csprojAssemblyReference.cache
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.csproj.CoreCompileInputs.cache
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.RazorAssemblyInfo.cache
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.RazorAssemblyInfo.cs
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.RazorTargetAssemblyInfo.cache
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.dll
+D:\HTL Perg\5AHIF\Mobile Computing\Hausübungen\01\contact-list-exercise-katr1234\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.pdb
