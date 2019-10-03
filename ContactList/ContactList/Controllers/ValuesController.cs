@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ContactList.Controllers
 {
+    // Class name does not fit to file name ("Values" vs. "ContactList")
     [ApiController]
     [Route("contacts")]
     public class ContactListController : ControllerBase
@@ -28,6 +29,7 @@ namespace ContactList.Controllers
             {
                 foreach(Contact c in contact)
                 {
+                    // Spec: Contains, not Equals
                     if (c.firstName.Equals(name) || c.lastName.Equals(name))
                     {
                         // 200: Successful operation
